@@ -4,6 +4,6 @@ My name's Yaroslav Samoylov, I'm currently working [@gubagoo](http://github.com/
 
 - 🤩 Researching Next.JS I hope i'll be able to launch my website 
 - 💬 Hosting a podcast "And designer" [yaosamo.com](https://yaosamo.com)
-- 🦩 Ballancing between manager and individual contributor. Learning a lot
+- 🦩 Ballancing between manager and individual contributor.
 
 Say hi on [Twitter @yaosamo](http://twitter.com/yaosamo)
